@@ -9,4 +9,9 @@ Here are my dotfiles for
 ## BASH
 .bashrc
 
-##VIM
+## NVIM
+.config/nvim
+
+
+## Emacs
+.config/emacs

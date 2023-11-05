@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/hipc/repos/refactor/MM-SW/src/MM-Temp/HAL/BufferedUart'
+let g:netrw_dirhist_9='/home/hipc/repos/refactor/MM-SW/src/MM-Temp/HAL'
+let g:netrw_dirhist_8='/home/hipc/repos/refactor/MM-SW/src/MM-Temp'
+let g:netrw_dirhist_7='/home/hipc/repos/refactor/MM-SW/src'
+let g:netrw_dirhist_6='/home/hipc/repos/refactor/MM-SW'
+let g:netrw_dirhist_5='/home/hipc/repos/refactor'
+let g:netrw_dirhist_4='/home/hipc/repos'
+let g:netrw_dirhist_3='/home/hipc'
+let g:netrw_dirhist_2='/home/hipc/repos/refactor/MM-SW/src/MM-Temp/HAL/Gpio/EBB'
+let g:netrw_dirhist_1='/home/hipc/repos/refactor/MM-SW/src/MM-Temp/HAL/Gpio'

@@ -11,7 +11,18 @@ Here are my dotfiles for
 
 ## NVIM
 .config/nvim
+.config/.vimrc
+.config/.vim
 
+## i3
+.config/i3
 
-## Emacs
+## awesome
+.config/awesome
+
+## alacritty
+.config/alacritty
+
+## (Doom)Emacs
 .config/emacs
+.config/doom

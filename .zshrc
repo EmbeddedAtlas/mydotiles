@@ -9,6 +9,7 @@ export ZSH="$HOME/.oh-my-zsh"
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 ZSH_THEME="agnoster"
+DEFAULT_USER="marcus"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -104,11 +105,12 @@ ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE="fg=#444444,bg=0,underline"
 ZSH_AUTOGUGGEST_STRATEGY=(history completion)
 
 alias vim=nvim
-
+alias cat=batcat
 alias ls=exa
 
 alias config='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'
 
 eval "$(zoxide init bash)"
-
+# export TERM=alacritty
+export BAT_THEME=gruvbox-dark
 # eval "$(starship init zsh)"
